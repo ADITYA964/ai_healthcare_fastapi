@@ -12,7 +12,7 @@
 ```   
 ## Opensource Dataset details
 
-ECG Heartbeat Categorization Dataset link :- https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+Dataset link :- https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
 
 - class 1 : suicide
 - class 2 : non-suicide
