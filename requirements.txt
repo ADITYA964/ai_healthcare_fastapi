@@ -1,0 +1,7 @@
+tensorflow
+tensorflow_hub 
+keras
+fastapi
+uvicorn
+gdown
+numpy
