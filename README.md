@@ -10,9 +10,23 @@
    |-- model_utils.py
    |-- requirements.txt
 ```   
+## Opensource Dataset details
 
---------------------------------------------------------------------------------------------------------------------
-## Download tokenization.py to execute API :- https://github.com/google-research/bert/blob/master/tokenization.py
---------------------------------------------------------------------------------------------------------------------------
+ECG Heartbeat Categorization Dataset link :- https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
 
-```Command to execute api :-  python3 -m uvicorn api:app --reload```
+- class 1 : suicide
+- class 2 : non-suicide
+
+## Objective
+
+The problem statement is to develop AI system to predict whether the user is going to attempt suicide or not based on text.
+ 
+## Requiremnts to execute API :-
+
+Download this file :- https://github.com/google-research/bert/blob/master/tokenization.py
+
+## Execute API
+
+```shell
+python3 -m uvicorn api:app --reload
+```
