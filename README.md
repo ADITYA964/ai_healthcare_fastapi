@@ -5,6 +5,7 @@
 ```tree
    ai_healthcare_fastapi
    |-- Dockerfile
+   |-- Notebook.ipynb
    |-- README.md
    |-- api.py
    |-- model_utils.py
